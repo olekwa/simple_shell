@@ -1,10 +1,12 @@
 #include "main.h"
 
+
 /**
  * get_builtin -built-in feature that carries out the command from the argument
  * @cmd: command
  * Return: the integrated command's function identification
  */
+
 int (*get_builtin(char *cmd))(data_shell *)
 {
 	builtin_t builtin[] = {
