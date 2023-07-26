@@ -1,5 +1,5 @@
-                                           SIMPLE SHELL PROJECT                                                          
-                                                    
+SIMPLE SHELL PROJECT
+
                                                     README.md
 Simple Shell - This is a simple UNIX command interpreter built to take in simple commands and execute text-based programs. shell bash cli unix command-line pid simple-shell.
 It helps to explore, understand and create a functional basic shell program
@@ -20,7 +20,7 @@ $
 It may contain also,
 _putchar.c     README.md
 $ ls           execve.c
-Shell.h        AUTHORS 
+Shell.h        AUTHORS
 main.c         man_1_simple_shell
 
 
@@ -42,5 +42,3 @@ GCC - Compiler version 4.8.4
 Authors
 Olekwa John - Development and documentation - olekwa
 Nyarko Philip Abel - Documentation and development - GentlePhilip
-Below is also the contributors to this simple _shell project
-(https://github.com/olekwa/simple_shell/fork)
