@@ -8,7 +8,7 @@ Commencement/ Beginning
 
 Installation
 You can install the simple shell cloning this repo:
-https://github.com/GentlePhilip/simple_shell
+https://github.com/olekwa/simple_shell
 and then you can compile with this command
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89*.c -o hsh
 after the compilation you can execute and try this shell writing
